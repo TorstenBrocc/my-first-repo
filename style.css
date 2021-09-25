@@ -40,7 +40,7 @@ a:hover {
 .img-circle {
   width: 210px;
   height: 210px;
-  border-radius: 45%;
+  border-radius: 50%;
 }
 
 .list-inline {
